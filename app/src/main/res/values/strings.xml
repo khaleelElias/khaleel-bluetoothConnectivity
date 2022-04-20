@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothConnectivity</string>
+    <string name="bluetoothicon">bluetoothIcon</string>
+    <string name="search_for_nearby_bluetooth_devices">Search for devices</string>
+    <string name="device_name">Device name</string>
+    <string name="mac_address">MAC Address</string>
+</resources>
